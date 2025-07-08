@@ -20,4 +20,4 @@ local Config = {
     }
 }
 
-return Configk
+return Config
