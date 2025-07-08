@@ -76,3 +76,5 @@ function Utilities.getHealth(model)
     end
     return { Current = 0, Max = 100 } -- Fallback if no humanoid found
 end
+
+return Utilities
