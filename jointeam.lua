@@ -1,3 +1,7 @@
+getgenv().Config = {
+	AutoChooseTeam = true,
+	Team = "Marines"    --  "Marines"
+}
 
 local function setTeam(teamName)
 	local args = {
